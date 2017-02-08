@@ -1,3 +1,3 @@
 # hello-world
 
-I haven't eaten tacos on mars.
+I've never had neither moon nor mars tacos.
